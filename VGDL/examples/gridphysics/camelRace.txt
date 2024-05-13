@@ -12,8 +12,8 @@ BasicGame
             straightCamelSlow > Missile speed=0.15 frameRate=10
                 slowR > orientation=RIGHT img=newset/camel4
                 slowL > orientation=LEFT img=newset/camel4L
-        structure >
-            goal  > Door color=GREEN img=newset/exit2
+      
+        goal  > Door color=GREEN img=newset/exit2
         winnerNPC > Immovable color=RED img=oryx/sparkle2
         winnerPlayer > Immovable color=PINK img=oryx/sparkle1
         avatar > MovingAvatar frameRate=8
